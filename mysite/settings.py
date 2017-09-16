@@ -25,7 +25,7 @@ SECRET_KEY = '0kgizeo2l2mhz0im$l+1ofsfs4e)2)9wlq+=*wx7$in#leeb48'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django-girls-gclunie.c9users.io']
+ALLOWED_HOSTS = ['django-girls-gclunie.c9users.io', 'gclunie.pythonanywhere.com']
 
 
 # Application definition
